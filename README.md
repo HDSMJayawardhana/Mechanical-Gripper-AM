@@ -59,7 +59,7 @@ Mechanical-Gripper-AM/
 ├── docs/
 │   └── project_description.md
 ├── cad/
-│   └── gripper.step
+│   └── task 01.stl
 │   └── gripper.PNG
 ├── design/
 │   ├── design_parameters.md      ← All dimensions
